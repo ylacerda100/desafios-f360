@@ -11,3 +11,4 @@ with file as arquivo:
                 count += 1
 
 print(count)
+file.close()
